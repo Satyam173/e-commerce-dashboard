@@ -1,0 +1,51 @@
+# Node.js dependencies
+node_modules/
+# Build output directories
+dist/
+build/
+# Environment variable files
+.env
+# Log files
+*.log
+logs/
+# Operating system files
+.DS_Store
+Thumbs.db
+# IDE/editor specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+# Optional npm cache directory
+.npm/
+# MacOS directory metadata
+.DS_Store
+# Windows directory metadata
+Thumbs.db
+# Temporary files
+*.tmp
+*.swp
+# Coverage directory used by testing frameworks
+coverage/
+# Debug files
+debug/
+# Compiled files
+*.out
+*.obj
+*.exe
+*.o
+# npm debug log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+# Optional eslint cache
+.eslintcache
+# Optional stylelint cache
+.stylelintcache
+# Temporary storage files
+tmp/
+temp/
+# IntelliJ IDEA specific files
+.idea/
+# React Native packager cache
+.expo/
